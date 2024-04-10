@@ -22,7 +22,7 @@ git rebase upstream/main
 Download AWS CLI below link as per your OS:
 
 ```
-[ ASW CLI ](https://aws.amazon.com/cli/)
+https://aws.amazon.com/cli/
 
 ```
 
